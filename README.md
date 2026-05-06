@@ -24,6 +24,7 @@ I study at the intersection of medicine and engineering, focusing on how data-dr
 
 
 # Internships
+
 **Art Fair Philippines** | *Digital Intern*                                                                                                     
 - Assisted in exhibit operations, providing technical support and ensuring smooth functionality
 - Maintained and troubleshooted computers and the exhibit website to support the curator
@@ -43,10 +44,32 @@ I study at the intersection of medicine and engineering, focusing on how data-dr
 - Join brainstorming sessions and assist in the execution of engagement programs
 
 
+# Exchange Student Experiences
+
+**🇹🇭 Kasetsart University | Sri Racha, Thailand**
+
+*Green Logistic and Supply Chain Management*
+
+- Module 1: Goods Purchasing Management
+- Module 2: Warehouse and Inventory Management
+- Module 3: Transportation Management
+
+**🇹🇭 Kasetsart University | Kamphaeng Saen, Thailand**
+
+*Design Thinking, Python Programming, and Robotic Operation*
+Design Thinking Game
+
+- Module 4: Python Programming for Robotics
+- Module 5: Parameter Optimization & Robotic Operation
+
 
 
 # Education
+
 De La Salle University | Gokongwei College of Engineering
-Bachelor of Science in Biomedical Engineering | 2021-Present
+
+*Bachelor of Science in Biomedical Engineering | 2021-Present*
+
+
 
 
