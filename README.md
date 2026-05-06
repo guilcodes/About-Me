@@ -3,19 +3,13 @@
 
 I study at the intersection of medicine and engineering, focusing on how data-driven systems and IoT can revolutionize patient care. My background as a Biomedical Engineering student allows me to bridge the gap between human physiology and technical solutions.
 
-**🚀 My Focus Areas**
-- Data Engineering for Healthcare: Building robust pipelines to handle complex medical datasets
-- Smart Systems (IoT): Integrating hardware and software for real-time monitoring
-- Physical Design: Leveraging CAD for innovation
-- Operational Excellence: Applying operations management principles to streamline clinical workflows and healthcare delivery
-
 **🛠 Technical Toolkit**
 - Programming & Data:	Python, SQL, HTML, CSS
 - Engineering & CAD:	SolidWorks, OnShape
 - Design & UI/UX:	Figma, Canva
 - Workflow & Ops:	Google Workspace, Operations Management
 
-**🔬 Research & Interests**
+**🔬 Medical Interests**
 - Cardiology
 - Neurology
 - Prosthetics
