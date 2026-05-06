@@ -63,12 +63,18 @@ Design Thinking Game
 - Module 5: Parameter Optimization & Robotic Operation
 
 
-
 # Education
 
 De La Salle University | Gokongwei College of Engineering
 
 *Bachelor of Science in Biomedical Engineering | 2021-Present*
+
+
+# 📲 Let's Connect!
+
+Instagram: @guilgonzales
+X: @guilgonzales
+Gmail: gonzalesggb.contact@gmail.com
 
 
 
