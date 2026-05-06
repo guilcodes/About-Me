@@ -25,19 +25,28 @@ I study at the intersection of medicine and engineering, focusing on how data-dr
 
 # Internships
 
-**Art Fair Philippines** | *Digital Intern*                                                                                                     
+**Art Fair Philippines | Makati, Philippines**
+
+*Digital Intern*     
+
 - Assisted in exhibit operations, providing technical support and ensuring smooth functionality
 - Maintained and troubleshooted computers and the exhibit website to support the curator
 - Supported booth setup, organization, and guided fairgoers with information and directions
 
-**Nat Rē: National Reinsurance Corporation of the Philippines** | *Data Administration and Technology Intern*	    
+**Nat Rē: National Reinsurance Corporation of the Philippines | Makati, Philippines**
+
+*Data Administration and Technology Intern*	    
+
 - Defined user requirements and supported the creation of tools to translate bordereaux data into SICS input files
 - Retrieved and processed bordereaux data, validated outputs, and ensured correct storage for further processing
 - Manually validated name fields and reconciled bordereaux totals, reporting discrepancies for correction
 - Uploaded SICS-template data and ensured successful processing, tracked uploads for monitoring and reporting
 - Assisted with documentation of transactions, preparation of claims processing sheets, and other clerical tasks
 
-**HOPE: Business for Good** | *Human Resources and Administration Intern*
+**HOPE: Business for Good | Makati, Philippines**
+
+*Human Resources and Administration Intern*
+
 - Attend brainstorming sessions for all different HR activities and processes
 - Assist in streamlining processes for Employees and Candidates
 - Filing of physical and digital files in Google Drive
