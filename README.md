@@ -74,7 +74,7 @@ Design Thinking Game
 
 # 🏫 Education
 
-De La Salle University | Gokongwei College of Engineering
+**De La Salle University | Gokongwei College of Engineering**
 
 *Bachelor of Science in Biomedical Engineering | 2021-Present*
 
