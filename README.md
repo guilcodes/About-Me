@@ -23,7 +23,7 @@ I study at the intersection of medicine and engineering, focusing on how data-dr
 - Sports Science
 
 
-# Internships
+# 🧑🏻‍💻 Internships
 
 **Art Fair Philippines | Makati, Philippines**
 
@@ -53,7 +53,7 @@ I study at the intersection of medicine and engineering, focusing on how data-dr
 - Join brainstorming sessions and assist in the execution of engagement programs
 
 
-# Exchange Student Experiences
+# 🌐 Exchange Student Experiences
 
 **🇹🇭 Kasetsart University | Sri Racha, Thailand**
 
@@ -72,14 +72,14 @@ Design Thinking Game
 - Module 5: Parameter Optimization & Robotic Operation
 
 
-# Education
+# 🏫 Education
 
 De La Salle University | Gokongwei College of Engineering
 
 *Bachelor of Science in Biomedical Engineering | 2021-Present*
 
 
-# Let's Connect!
+# 📲 Let's Connect!
 
 Instagram: @guilgonzales
 
