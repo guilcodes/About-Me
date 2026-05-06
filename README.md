@@ -1,6 +1,52 @@
-# about-me
+# 👋 Hi, I'm Guil 🙋🏻
+🧬 Biomedical Engineering Student
 
-<title>About Me<title>
-  
-<h1>Education</h1>
-<p>Insert description here</p>
+I study at the intersection of medicine and engineering, focusing on how data-driven systems and IoT can revolutionize patient care. My background as a Biomedical Engineering student allows me to bridge the gap between human physiology and technical solutions.
+
+**🚀 My Focus Areas**
+- Data Engineering for Healthcare: Building robust pipelines to handle complex medical datasets
+- Smart Systems (IoT): Integrating hardware and software for real-time monitoring
+- Physical Design: Leveraging CAD for innovation
+- Operational Excellence: Applying operations management principles to streamline clinical workflows and healthcare delivery
+
+**🛠 Technical Toolkit**
+- Programming & Data:	Python, SQL, HTML, CSS
+- Engineering & CAD:	SolidWorks, OnShape
+- Design & UI/UX:	Figma, Canva
+- Workflow & Ops:	Google Workspace, Operations Management
+
+**🔬 Research & Interests**
+- Cardiology
+- Neurology
+- Prosthetics
+- Genetics
+- Sports Science
+
+
+# Internships
+**Art Fair Philippines** | *Digital Intern*                                                                                                     
+- Assisted in exhibit operations, providing technical support and ensuring smooth functionality
+- Maintained and troubleshooted computers and the exhibit website to support the curator
+- Supported booth setup, organization, and guided fairgoers with information and directions
+
+**Nat Rē: National Reinsurance Corporation of the Philippines** | *Data Administration and Technology Intern*	    
+- Defined user requirements and supported the creation of tools to translate bordereaux data into SICS input files
+- Retrieved and processed bordereaux data, validated outputs, and ensured correct storage for further processing
+- Manually validated name fields and reconciled bordereaux totals, reporting discrepancies for correction
+- Uploaded SICS-template data and ensured successful processing, tracked uploads for monitoring and reporting
+- Assisted with documentation of transactions, preparation of claims processing sheets, and other clerical tasks
+
+**HOPE: Business for Good** | *Human Resources and Administration Intern*
+- Attend brainstorming sessions for all different HR activities and processes
+- Assist in streamlining processes for Employees and Candidates
+- Filing of physical and digital files in Google Drive
+- Join brainstorming sessions and assist in the execution of engagement programs
+
+
+
+
+# Education
+De La Salle University | Gokongwei College of Engineering
+Bachelor of Science in Biomedical Engineering | 2021-Present
+
+
