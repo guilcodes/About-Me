@@ -18,7 +18,7 @@ I study at the intersection of medicine and engineering, focusing on how data-dr
 
 # 🧑🏻‍🔬 Experiments
 
-- 🫀 [Classifying Arrhythmia using Electrocardiogram Results as Matrices] (https://github.com/guilcodes/arrhythmia-ecg)
+- 🫀 [Classifying Arrhythmia using Electrocardiogram Results as Matrices](https://github.com/guilcodes/arrhythmia-ecg)
 
 
 
