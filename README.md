@@ -73,7 +73,9 @@ De La Salle University | Gokongwei College of Engineering
 # 📲 Let's Connect!
 
 Instagram: @guilgonzales
+
 X: @guilgonzales
+
 Gmail: gonzalesggb.contact@gmail.com
 
 
