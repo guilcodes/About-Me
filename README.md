@@ -16,7 +16,7 @@ I study at the intersection of medicine and engineering, focusing on how data-dr
 - Genetics
 - Sports Science
 
-# 🧑🏻‍🔬 Experiments
+# 💻 Coding Projects
 
 - 🫀 [Classifying Arrhythmia using Electrocardiogram Results as Matrices](https://github.com/guilcodes/arrhythmia-ecg)
 
